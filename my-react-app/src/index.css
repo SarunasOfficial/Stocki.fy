@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.People_container {
+  background-color: rgb(233, 230, 226);
+  width: 100%;
+  justify-content: center;
+  display: block;
+  align-items: center;
+}
