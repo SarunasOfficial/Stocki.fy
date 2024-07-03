@@ -1,17 +1,14 @@
 .people_container {
-    background-color: azure;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
+    height: 40vmax;
 }
 
 .H2 {
-    background-color: azure;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .BODY {
-    background-color: azure;
+    background-color: hsla(240, 59%, 48%, 0.829);
+    margin: 0;
+    padding: 0;
     height: 40vh;
 }
