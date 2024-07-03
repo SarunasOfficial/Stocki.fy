@@ -1,0 +1,13 @@
+.people_container {
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.H2 {
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}

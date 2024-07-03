@@ -1,18 +1,13 @@
 import Header from './Header/Header.jsx'
 import Footer from './Footer.jsx'
-import People from './People/People.jsx'
+import Partners from './Partners/Partners.jsx'
 
 function App() {
   
   return(
     <>
       <Header></Header>
-      <div className="People_container">
-        <People></People>
-        <People></People>
-        <People></People>
-        <People></People>
-      </div>
+      <Partners></Partners>
       <Footer></Footer>
     </>
   );
